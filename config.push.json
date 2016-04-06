@@ -1,0 +1,21 @@
+{
+  "apn": {
+    "passphrase": "<passphrase>",
+    "key": "Prod_BuzzyBuzzKey.pem",
+    "cert": "Prod_BuzzyBuzzCert.pem"
+  },
+  "apn-dev": {
+    "passphrase": "<passphrase>",
+    "key": "Dev_PushChatKey.pem",
+    "cert": "Dev_PushChatCert.pem"
+  },
+  "gcm": {
+    "apiKey": "<ENTER GCM API KEY>",
+    "projectNumber": 1111111111
+  },
+  "production": false,
+   "badge": false,
+  "sound": true,
+   "alert": true,
+   "vibrate": true
+}
